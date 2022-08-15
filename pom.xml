@@ -5,10 +5,10 @@
 	</properties>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.authorize.sample</groupId>
-	<artifactId>SampleCode</artifactId>
-	<packaging>jar</packaging>
-	<version>1.0</version>
-	<name>SampleCode</name>
+	<artifactId>sample-artifact</artifactId>
+	<packaging>war</packaging>
+	<version>2.0</version>
+	<name>SampleDemo</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
